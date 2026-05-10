@@ -1,25 +1,11 @@
 a0. The pivotal fine tuning beneath
 
-    - Gemini claims that the absence of a speed limit ‘would likely result in a "causal soup"
-      where no stable structure could ever form’, thus a lifeless cosmos.
-            : see https://gemini.google.com/app/66a05730b0178d25
-        !! weakens my argument, if true
-        critique+ Gemini
-            ?+ Among scholars who debate the universe’s fine-tuning for life, has any argued
-               that life depends on a universal speed limit, whether on the presence of such a limit,
-               or on its particular value (at 3×10⁸ m/s)?
-                !! consensus on both counts: already it’s considered part of the fine-tuning
-                   for basic life, viz. its creation and stability on the short scale of time
-                    : see https://gemini.google.com/app/a15855dddec6eca0
-            - yet the speed limit has no significant, direct effect at small scales
-                / such as the scale at which life flourishes
-                ?+ where then is the resultant causal soup at these scales?
-                    / we observe none
-            - yet life forms at small scales where the speed limit has no significant, direct effect
-                ?+ how then does life depend on the presence of the speed limit?
-                    / given that its presence has direct effect only at large scales
-        ?+ might my tuning include some *other* aspect of the speed limit?
-            / viz. even if (given Gemini) it excludes the very *presence* of a speed limit
-            ?+ its specific value?
-                / e.g. in conjunction with one or more other cosmic properties
-                  such as stellar interspacing?
+    !! Gemini claims that the absence of a speed limit ‘would likely result in a "causal soup"
+      where no stable structure could ever form’ in the first place, thus a lifeless cosmos
+        : see https://gemini.google.com/app/66a05730b0178d25
+        ?+ Among scholars who debate the universe’s fine-tuning for life, has any argued that life
+           depends on a universal speed limit, whether on the presence of such a limit,
+           or on its particular value (at 3×10⁸ m/s)?
+            !! consensus on both counts: already it’s considered part of the fine-tuning for basic life,
+               viz. its creation and stability on the short scale of time
+                : see https://gemini.google.com/app/a15855dddec6eca0
