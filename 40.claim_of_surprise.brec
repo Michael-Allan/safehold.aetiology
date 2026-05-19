@@ -1,6 +1,10 @@
 40. Claim of surprise
     / viz. what calls for an aetiology/explanation
 
-    ?+ My rhetoric plan for an aetiologic essay (domain of philosophy or science) calls for using
+    ?!! My rhetoric plan for an aetiologic essay (domain of philosophy or science) calls for using
       surprise at the presence of a phenomenon as the warrant for seeking an explanation of it.
+      Moreover I will premise that, ceteris paribus, the best explanation leaves the least surprise.
       What need I know about the relation between surprise and explanation?  Who has given thought to it?
+        : re `premise.+best (explanation).+least (surprise)`
+          see `None of the.+${1}s satisfies.+because each leaves a residue of.+${2}`p
+          @ I0.vetting_the_explanations.brec
