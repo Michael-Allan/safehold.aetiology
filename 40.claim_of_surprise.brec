@@ -1,14 +1,20 @@
 40. Claim of surprise
-    / viz. what calls for an aetiology/explanation
 
-    ?!! My writing plan for an aetiologic essay (domain of philosophy or science) calls for using
-      surprise at the presence of a phenomenon as the warrant for seeking an explanation of it.
-      Moreover, I plan to premise that the best explanation (ceteris paribus) leaves the least surprise.
-      Who has given clearest thought to the relation between surprise and explanation?
-      What need I know of that relation in order to judge the soundness of my plan?
-        : re `premise.+best (explanation).+least (surprise)`
-          see `None of the.+${1}s satisfies.+because each leaves a residue of.+${2}`s
-          @ I0.vetting_the_explanations.brec
-        : privately see https://gemini.google.com/app/cc3317335dad0809#e392d17b2e937cf0 : 2026-5-19
-          ‘Hi Gemini, I’ve research work on my mind.  I’ll tell you.  My writing plan…
-           This plan raises specific research questions. …’
+    ?!! soundness of (a) and (b), if not also (c)?
+            (a) surprise at the presence of a phenomenon (SPP) as the warrant
+              for seeking an explanation of it
+                : e.g. 40.claim_of_surprise.brec
+            (b) SPP reduction as a search criterion
+                : see `None of the.+explanations satisfies.+because each leaves a residue of.+surprise`s
+                  @ I0.vetting_the_explanations.brec
+            (c) a premise that the best explanation (ceteris paribus) leaves the least SPP
+                : cf. `None of the.+explanations satisfies.+because each leaves a residue of.+surprise`s
+                  @ I0.vetting_the_explanations.brec
+        : see https://gemini.google.com/app/cc3317335dad0809#e392d17b2e937cf0 : 2026-5-19 ‘Hi Gemini,
+          I’ve research work on my mind.  I’ll tell you.  My writing plan for an aetiologic essay
+          (domain of philosophy or science) calls for using surprise at the presence of a phenomenon
+          as the warrant for seeking an explanation of it.  Moreover, I plan to premise that the best
+          explanation (ceteris paribus) leaves the least surprise.  This plan raises specific research
+          questions.  Who has given clearest thought to the relation between surprise and explanation?
+          What need I know of that relation in order to judge the soundness of my plan?’
+        : private
