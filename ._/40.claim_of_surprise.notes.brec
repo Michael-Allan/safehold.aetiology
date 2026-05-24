@@ -4,17 +4,18 @@
 
             a) surprise at the presence of a phenomenon (SPP) as the warrant
               for seeking an explanation of it
-                : see 40.claim_of_surprise.brec
+                : see ../40.claim_of_surprise.brec
                 : see `^*-.+a variant of.+the design hypothesis can do better in this regard$`
-                  @ I0.vetting_the_explanations.brec
+                  @ I0.vetting_the_explanations.notes.brec
                     : re `this regard` see `^*∵ each leaves a residue of.+surprise`
-                      @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+                      @ `^*- none of the.+explanations satisfies`
+                      @ I0.vetting_the_explanations.notes.brec
             b) SPP reduction as a search criterion
                 : see `^*∵ each leaves a residue of.+surprise`
-                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.notes.brec
             c) a premise that the best explanation (ceteris paribus) leaves the least SPP
                 : cf. `^*∵ each leaves a residue of.+surprise`
-                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.notes.brec
 
         ⇒ solid
             - so say the sources below
@@ -49,7 +50,7 @@
               Glass, David H., and Jonah N. Schupbach. "Conjunctive explanations:
               when are two explanations better than one?."  Synthese 204, no. 2 (2024): 49.
                 : cf. `existence of.+designer.+in turn.+explained by.+multiverse ensemble hypothesis`s
-                  @ I0.vetting_the_explanations.brec : my plan of combining design
+                  @ I0.vetting_the_explanations.notes.brec : my plan of combining design
                   and multiverse hypotheses (rivals) to form a single, composite explanation
             : see https://brill.com/view/journals/gps/98/1/article-p1_1.xml : Engelhard, Kristina,
               Christian J. Feldbacher-Escamilla, Alexander Gebharter, and Ansgar Seide. "Inductive
