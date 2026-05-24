@@ -1,0 +1,87 @@
+40. Notes on the claim of surprise
+
+    soundness of method?  viz. in developing my thesis on the basis of (a) and (b), if not also (c)
+
+            a) surprise at the presence of a phenomenon (SPP) as the warrant
+              for seeking an explanation of it
+                : see 40.claim_of_surprise.brec
+                : see `^*-.+a variant of.+the design hypothesis can do better in this regard$`
+                  @ I0.vetting_the_explanations.brec
+                    : re `this regard` see `^*∵ each leaves a residue of.+surprise`
+                      @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+            b) SPP reduction as a search criterion
+                : see `^*∵ each leaves a residue of.+surprise`
+                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+            c) a premise that the best explanation (ceteris paribus) leaves the least SPP
+                : cf. `^*∵ each leaves a residue of.+surprise`
+                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.brec
+
+        ⇒ solid
+            - so say the sources below
+        : see https://gemini.google.com/app/cc3317335dad0809#e392d17b2e937cf0 : 2026-5-19 ‘Hi Gemini,
+          I’ve research work on my mind.  I’ll tell you.  My writing plan for an aetiologic essay
+          (domain of philosophy or science) calls for using surprise at the presence of a phenomenon
+          as the warrant for seeking an explanation of it.  Moreover, I plan to premise that the best
+          explanation (ceteris paribus) leaves the least surprise.  This plan raises specific research
+          questions.  Who has given clearest thought to the relation between surprise and explanation?
+          What need I know of that relation in order to judge the soundness of my plan?’
+        : see https://scholar.google.ca/scholar_labs/search/session/5767377787279625203 :
+         ‘Find recent scholarship that uses (a) and (b), if not also (c), and defends their use:
+          (a) surprise at the presence of a phenomenon (SPP) as the warrant for seeking an explanation
+          of it, and (b) SPP reduction as a search criterion, if not also (c) a premise
+          that the best explanation (ceteris paribus) leaves the least SPP.’
+            : see https://link.springer.com/content/pdf/10.1007/s10670-021-00410-z.pdf :
+              French, Steven, and Alice Murphy. "The value of surprise in science."
+              Erkenntnis 88, no. 4 (2023): 1447-1466.
+            : see https://people.duke.edu/~jch8/bio/Papers/J%20Consum%20Psychol%20-%202020%20-%20Calder%20-%20Distinguishing%20Constructs%20from%20Variables%20in%20Designing%20Research.pdf :
+              Calder, Bobby J., C. Miguel Brendl, Alice M. Tybout, and Brian Sternthal. "Distinguishing
+              constructs from variables in designing research." Journal of Consumer Psychology 31, no. 1
+              (2021): 188-208.
+                - paraphrases (p. 199) Schupbach 2017 thus: ‘the best explanation is the one that takes
+                  the most “surprise” out of the effect’
+                    : re `‘(the best explanation).+takes the most “surprise” out.+’`p
+                      cf. `^*c\).+premise that ${same}.+leaves the least SPP$`
+                    + read Schupbach 2017
+            : see https://myscp.onlinelibrary.wiley.com/doi/epdf/10.1002/jcpy.1280 :
+              Janiszewski, Chris, and Stijn MJ Van Osselaer. "Abductive theory construction."
+              Journal of consumer psychology 32, no. 1 (2022): 175-193.
+            : see https://link.springer.com/content/pdf/10.1007/s11229-024-04683-z.pdf :
+              Glass, David H., and Jonah N. Schupbach. "Conjunctive explanations:
+              when are two explanations better than one?."  Synthese 204, no. 2 (2024): 49.
+                : cf. `existence of.+designer.+in turn.+explained by.+multiverse ensemble hypothesis`s
+                  @ I0.vetting_the_explanations.brec : my plan of combining design
+                  and multiverse hypotheses (rivals) to form a single, composite explanation
+            : see https://brill.com/view/journals/gps/98/1/article-p1_1.xml : Engelhard, Kristina,
+              Christian J. Feldbacher-Escamilla, Alexander Gebharter, and Ansgar Seide. "Inductive
+              metaphysics: Editors’ introduction." Grazer Philosophische Studien 98, no. 1 (2021): 1-26.
+                - distinguishes (§ 1.4 and Schurz co-article) two types of abduction,
+                  namely creative and selective
+                        + read Schurz in the same journal number
+                    - associates the two with, respectively, Pierce (abductive inference guy)
+                      and Lipton (inference to the best explantion)
+                        1+ read Pierce
+                            - probably I will quote his schema
+                                : re `quote his schema`
+                                  e.g. https://brill.com/view/journals/gps/98/1/article-p1_1.xml : § 1.4
+                        2+ read Lipton
+                    - the two correspond to my two uses of surprise (search warrant vs. search method)
+                        : re `search warrant` see `^*a\) surprise.+\(SPP\) as.+warrant for seeking`p
+                        : re `search method`  see `^*b\) SPP reduction as a search criterion$`
+            : see http://www.jesp.org/index.php/jesp/article/view/1202/307 : Shahvisi, Arianne.
+              "Resisting wrongful explanations." J. Ethics & Soc. Phil. 19 (2021): 168.
+            : see https://journals.sagepub.com/doi/full/10.1177/15553434211045154 : Cao, Rosa,
+              and Daniel Yamins. "Explanatory models in neuroscience, Part 2: Functional intelligibility
+              and the contravariance principle." Cognitive Systems Research 85 (2024): 101200.
+        : see https://scholar.google.ca/scholar_labs/search/session/13927564898119570899 :
+         ‘Who among scholars has recently propounded an argument in favour of a particular explanation
+          (theory, thesis, hypothesis or whatnot) based on the criterion that it reduces surprise
+          at the presence of the explanandum (phenomenon or thing to be explained) better than do
+          rival alternative explanations, while also defending their use of that criterion?’
+            : see https://link.springer.com/content/pdf/10.1007/s11229-022-04025-x.pdf :
+              Glass, David H. "How good is an explanation?." Synthese 201, no. 2 (2023): 53.
+            : see https://www.researchgate.net/profile/William-Roche/publication/356442145_Purely_Probabilistic_Measures_of_Explanatory_Power_--_A_Critique/links/619bd58c61f0987720c58757/Purely-Probabilistic-Measures-of-Explanatory-Power--A-Critique.pdf :
+              Roche, William, and Elliott Sober. "Purely probabilistic measures of explanatory power:
+              A critique." Philosophy of Science 90, no. 1 (2023): 129-149.
+            : see https://link.springer.com/content/pdf/10.1007/s10539-021-09831-0.pdf :
+              Chellappoo, Azita. "When can cultural selection explain adaptation?."
+              Biology & Philosophy 37, no. 1 (2022): 2.
