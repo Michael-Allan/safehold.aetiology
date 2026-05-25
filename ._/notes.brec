@@ -17,6 +17,30 @@ Notes on the aetiology
                 : cf. `^*∵ each leaves a residue of.+surprise`
                   @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.notes.brec
 
+        : see https://plato.stanford.edu/entries/abduction/ : Douven, 2025.  Abduction.
+            1+ read
+        : see https://plato.stanford.edu/entries/scientific-discovery/ :
+          Schickore, 2025.  Scientific discovery.
+            1+ read where applicable
+        : see https://plato.stanford.edu/entries/argument/ : Novaes, 2022.  Argument and argumentation.
+            1+ read where applicable
+        : see https://books.google.ca/books?id=oLURDAAAQBAJ : Knauff, Markus and Wolfgang Spohn, eds.,
+          2021.  The handbook of rationality.  Cambridge, Massachusetts: The MIT Press.
+            1+ read where applicable
+        : see https://books.google.ca/books/?id=294UDAAAQBAJ :
+          Cappelen, Herman, Tamar Szabó Gendler and John Hawthorne, eds., 2016.
+          The Oxford handbook of philosophical methodology.  New York: Oxford University Press.
+            1+ read Hájek, chapter 19, *Philosophical heuristics and philosophical methodology*
+        : see https://books.google.ca/books/?id=lK6kDAAAQBAJ : Humphreys, Paul, ed., 2016.
+          The Oxford handbook of philosophy of science.  New York: Oxford University Press.
+            1+ read where applicable
+        : see https://books.google.ca/books?id=oLURDAAAQBAJ :
+          Mele, Alfred R. and Piers Rawling, eds., 2004.
+          The Oxford handbook of rationality. New York: Oxford University Press.
+            1+ read where applicable
+        : see https://iep.utm.edu/explanat/ : Mayes, ????.  Theories of explanation.
+            1+ read
+
         ⇒ solid
             - so say the sources below
         : see https://gemini.google.com/app/cc3317335dad0809#e392d17b2e937cf0 : 2026-5-19 ‘Hi Gemini,
@@ -60,11 +84,17 @@ Notes on the aetiology
                         + read Schurz in the same journal number
                     - associates the two with, respectively, Pierce (abductive inference guy)
                       and Lipton (inference to the best explantion)
-                        1+ read Pierce
-                            - probably I will quote his schema
+                        2+ read Pierce
+                            / probably I will quote his schema
                                 : re `quote his schema`
                                   e.g. https://brill.com/view/journals/gps/98/1/article-p1_1.xml : § 1.4
-                        2+ read Lipton
+                            : see https://plato.stanford.edu/entries/peirce/ :
+                              Burch, 2024.  Charles Sanders Peirce.
+                                + read where applicable
+                            : see https://iep.utm.edu/peir-log/ :
+                              Bellucci and Pietarinen, ????.  Charles Sanders Peirce: logic.
+                                + read where applicable
+                        3+ read Lipton
                     - the two correspond to my two uses of surprise (search warrant vs. search method)
                         : re `search warrant` see `^*a\) surprise.+\(SPP\) as.+warrant for seeking`p
                         : re `search method`  see `^*b\) SPP reduction as a search criterion$`
