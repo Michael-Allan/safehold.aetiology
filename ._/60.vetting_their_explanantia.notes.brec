@@ -1,73 +1,67 @@
 60. Notes on vetting the found explanantia
 
-    argument
-        - none of the soley physics/nature-based explanations satisfies
-            ∵ each leaves a residue of unexplained surprise at reality being so structured that hardly
-              could a viable, life-supporting cosmos exist unless (surprise!) it also afforded
-              a long-term safehold for mind
-                ∵ one then wonders at such open questions as: what constraint on reality
-                  so slims the possibilities?  whence comes it, and why?
-                / thus the residue of surprise and the call for a more satisfying explanation
-        - (a variant of) the design hypothesis can do better in this regard
-            ∵ easily the mind of a designer can explain the presence of the safehold
-            ∵ especially, deeply satisfying: the existence of the original designer can then, in turn,
-              easily be explained by the (soley physics/nature-based) multiverse ensemble hypothesis
-                ∵ given a numerous and diverse enough ensemble of cosmoi, it should be no surprise that
-                  one of the number happens (its structure sufficing) to evolve a line of noons|cogitants
-                  who manage to survive there long enough to figure out how (speculating it is possible)
-                  to sustain the multiverse game lineally, in time, as a line of [successive] cosmoi
-                    - together these noons|cogitants are the original cosmic designer/creator
-                    - they make a new cosmos (or multiple cosmoi, each) complete with a safehold
-                      whose (eventual) occupants they intend will:
-                        a) become cosmic designers themselves,
-                        b) repeat the performance, and
-                        c) keep the newly created line of cosmoi going indefinitely
-    feasiblity?  what are my prospects for refuting P?  what for asserting Q?
+    judging that none is acceptable
+        : see @ ../60.vetting_their_explanantia.brec
+        argument
+            - none of the soley physics/nature-based explanations satisfies
+                ∵ each leaves a residue of unexplained surprise at reality being so structured
+                  that hardly could a viable, life-supporting cosmos exist unless (surprise!)
+                  it also afforded a long-term safehold for mind
+                    : re `leaves a residue of unexplained surprise`
+                      see `^*b\) SPP reduction as a search criterion$` @ notes.brec
+                    ∵ one then wonders at such open questions as: what constraint on reality
+                      so slims the possibilities?  whence comes it, and why?
+                    / thus the residue of surprise and the call for a more satisfying explanation
+        feasiblity?  what are my prospects for refuting P?  what for asserting Q?
 
-            P: Hardly could we living noons|cogitants be here absent the cosmic speed limit on causation.
-            Q: Easily could we living noons|cogitants be here absent the cosmic speed limit on causation.
+                P: Hardly could we living noons|cogitants be here
+                  absent the cosmic speed limit on causation.
+                Q: Easily could we living noons|cogitants be here
+                  absent the cosmic speed limit on causation.
 
-            if( P ) then
-                - design might suffice (to explain the safehold)
-                - known rivals (OS, ME) might suffice
-            else if( Q ) then
-                - design might suffice
-                † known rivals (OS, ME) would not suffice
-            else
-                - unsure, maybe a toss up
+                if( P ) then
+                    - design might suffice (to explain the safehold)
+                    - known rivals (OS, ME) might suffice
+                else if( Q ) then
+                    - design might suffice
+                    † known rivals (OS, ME) would not suffice
+                else
+                    - unsure, maybe a toss up
 
-        ⇒ promising
-            - arguments for P expose premises that feel weak on probing
-                - they invite attack
-        ?+ Does anyone claim P?  Cite any sources that I may read them.  I aim to refute them.
-            + harvest and read first any reputable sources cited by the following
-                : see https://www.reddit.com/r/IsaacArthur/comments/ysl7bj/
-                : see https://gemini.google.com/app/4ab49ea749b4276c :
-                  § Immunity from Singularities
-                       Limit presence is necessary for that.
-                : see https://gemini.google.com/app/66a05730b0178d25 :
-                  ¶ Consider then the notion of fine-tuning for a speed limit
-                       Limit presence is necessary ∵ ‘the speed of light (*c*) …
-                       is a fundamental "gear" in the machinery of all physical laws.’
-                \ § Fine-Tuning the Value (*c*)
-                \      Limit value *c* is necessary for: element fusion in stars,
-                \      also for atomic stability.
-                \\ such value-based claims are likely easier to refute
-                \\ than the ontological (presence-based) claims
-                  § Protection of Causality                        {PC cf. PDS}
-                       Limit presence is necessary for ‘the stable, predictable environments
-                       required for biological evolution.’
-                  § Locality                                       {PL cf. GSSL}
-                       Limit presence is necessary ‘for isolated systems (like a solar system) to develop
-                       order without being constantly buffeted by every other event in the cosmos.’
-                : see https://gemini.google.com/app/a15855dddec6eca0 :
-                  § Preservation of Determinism and Sequence       {PDS cf. PC}
-                       Limit presence is necessary for that.
-                  § Geometric Structure of Spacetime and Locality  {GSSL cf. PL}
-                       Limit presence is necessary for that.
-                \ § The Luminosity Argument: Fine-Tuning for Stellar Stability
-                \     ‘Beyond the ontological requirement for a finite limit …  the particular value …
-                \      300,000 km/s … is essential for the existence of stable, life-supporting stars.’
-                \ § Relativistic Biochemistry and the Atomic Scale
-                \\ (again) such value-based claims are (I expect) relatively easy to refute
-        ?+ What of critics?  Cite them, too.
+            ⇒ promising
+                - arguments for P expose premises that feel weak on probing
+                    - they invite attack
+            ?+ Does anyone claim P?  Cite any sources that I may read them.  I aim to refute them.
+                + harvest and read first any reputable sources cited by the following
+                    : see https://www.reddit.com/r/IsaacArthur/comments/ysl7bj/
+                    : see https://gemini.google.com/app/4ab49ea749b4276c :
+                      § Immunity from Singularities
+                           Limit presence is necessary for that.
+                    : see https://gemini.google.com/app/66a05730b0178d25 :
+                      ¶ Consider then the notion of fine-tuning for a speed limit
+                           Limit presence is necessary ∵ ‘the speed of light (*c*) …
+                           is a fundamental "gear" in the machinery of all physical laws.’
+                    \ § Fine-Tuning the Value (*c*)
+                    \      Limit value *c* is necessary for: element fusion in stars,
+                    \      also for atomic stability.
+                    \\ such value-based claims are likely easier to refute
+                    \\ than the ontological (presence-based) claims
+                      § Protection of Causality                        {PC cf. PDS}
+                           Limit presence is necessary for ‘the stable, predictable environments
+                           required for biological evolution.’
+                      § Locality                                       {PL cf. GSSL}
+                           Limit presence is necessary ‘for isolated systems (like a solar system)
+                           to develop order without being constantly buffeted by every other event
+                           in the cosmos.’
+                    : see https://gemini.google.com/app/a15855dddec6eca0 :
+                      § Preservation of Determinism and Sequence       {PDS cf. PC}
+                           Limit presence is necessary for that.
+                      § Geometric Structure of Spacetime and Locality  {GSSL cf. PL}
+                           Limit presence is necessary for that.
+                    \ § The Luminosity Argument: Fine-Tuning for Stellar Stability
+                    \     ‘Beyond the ontological requirement for a finite limit …
+                    \      the particular value… 300,000 km/s … is essential
+                    \      for the existence of stable, life-supporting stars.’
+                    \ § Relativistic Biochemistry and the Atomic Scale
+                    \\ (again) such value-based claims are (I expect) relatively easy to refute
+            ?+ What of critics?  Cite them, too.
