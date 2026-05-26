@@ -7,18 +7,18 @@ Notes on the aetiology
 
             a) surprise at the presence of a phenomenon (SPP) as the warrant
               for seeking an explanation of it
-                : see ../40.claim_of_surprise.brec
+                : see ../20.surprise_at_its_presence.brec
                 : see `^*-.+a variant of.+the design hypothesis can do better in this regard$`
-                  @ I0.vetting_the_explanations.notes.brec
+                  @ 60.vetting_their_explanantia.notes.brec
                     : re `this regard` see `^*∵ each leaves a residue of.+surprise`
                       @ `^*- none of the.+explanations satisfies`
-                      @ I0.vetting_the_explanations.notes.brec
+                      @ 60.vetting_their_explanantia.notes.brec
             b) SPP reduction as a search criterion
                 : see `^*∵ each leaves a residue of.+surprise`
-                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.notes.brec
+                  @ `^*- none of the.+explanations satisfies` @ 60.vetting_their_explanantia.notes.brec
             c) a premise that the best explanation (ceteris paribus) leaves the least SPP
                 : cf. `^*∵ each leaves a residue of.+surprise`
-                  @ `^*- none of the.+explanations satisfies` @ I0.vetting_the_explanations.notes.brec
+                  @ `^*- none of the.+explanations satisfies` @ 60.vetting_their_explanantia.notes.brec
 
         : see https://plato.stanford.edu/entries/abduction/ : Douven, 2025.  Abduction.
             1+ read
@@ -77,7 +77,7 @@ Notes on the aetiology
               Glass, David H., and Jonah N. Schupbach. "Conjunctive explanations:
               when are two explanations better than one?."  Synthese 204, no. 2 (2024): 49.
                 : cf. `existence of.+designer.+in turn.+explained by.+multiverse ensemble hypothesis`s
-                  @ I0.vetting_the_explanations.notes.brec : my plan of combining design
+                  @ 60.vetting_their_explanantia.notes.brec : my plan of combining design
                   and multiverse hypotheses (rivals) to form a single, composite explanation
             : see https://brill.com/view/journals/gps/98/1/article-p1_1.xml : Engelhard, Kristina,
               Christian J. Feldbacher-Escamilla, Alexander Gebharter, and Ansgar Seide. "Inductive
@@ -119,13 +119,3 @@ Notes on the aetiology
             : see https://link.springer.com/content/pdf/10.1007/s10539-021-09831-0.pdf :
               Chellappoo, Azita. "When can cultural selection explain adaptation?."
               Biology & Philosophy 37, no. 1 (2022): 2.
-    plan of text
-        claim+ the surprise
-            / viz. what calls for an aetiology/explanation
-            ?+ My rhetoric plan for an aetiologic essay (domain of philosophy or science)
-              calls for using surprise at the presence of a phenomenon as the warrant
-              for seeking an explanation of it.  What need I know about the relation
-              between surprise and explanation?  Who has given thought to it?
-        gather+ potential explanations
-        vet+ the gathered explanations
-        task+ what remains
