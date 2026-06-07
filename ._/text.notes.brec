@@ -1,8 +1,8 @@
 Notes on the text
 
-    - the added premise needed for the multiverse ensemble hypothesis to explain not only fine-tuning,
-      but also the presence of the safehold, is hard to judge and must be looked into
-        : ad `added premise` : a necessarily tight coupling between a cosmos’s habitability
+    method: the extra premise needed by the multiverse ensemble hypothesis in order to explain not only
+      fine-tuning, but also the presence of the safehold, is hard to judge and must be looked into
+        : ad `extra premise` : a necessarily tight coupling between a cosmos’s habitability
           and safeholding capacity, the universal structure of reality being such that the set
           of cosmic properties necessary for the former will in most cases (in most combinations
           of their permitted values) happen also to suffice for the latter
@@ -34,10 +34,10 @@ Notes on the text
             if( a value range is imprecise )
                 / as I expect the more reliable ones will be
                 + so express it by a descriptor
-    - prospects for refuting the claim of a necessarily tight coupling
+    feasiblity: prospects for refuting the claim of a necessarily tight coupling
       between habitability and safeholding capacity
-        : re `claim of.+(necessarily tight coupling between) (habitability and safeholding capacity)`p see
-         `${1} a cosmos’s ${2}`p @ `^*- the added premise needed for the multiverse ensemble hypothesis`
+        : re `claim of.+(necessarily tight coupling between) (habitability and safeholding capacity)`p
+          see `${1} a cosmos’s ${2}`p @ `the\ extra premise needed by the multiverse ensemble hypothesis`
         : cf. `^*- prospects for refuting.+: hardly could life exist absent a speed limit on causation$`
           @ 01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
         ⇒ better to neutralize the threat and win the issue over to my favour by giving an alternative
