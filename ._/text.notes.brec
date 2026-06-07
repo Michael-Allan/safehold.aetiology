@@ -1,43 +1,45 @@
 Notes on the text
 
-    method: the extra premise needed by the multiverse ensemble hypothesis in order to explain not only
-      fine-tuning, but also the presence of the safehold, is hard to judge and must be looked into
-        : ad `extra premise` : a necessarily tight coupling between a cosmos’s habitability
-          and safeholding capacity, the universal structure of reality being such that the set
-          of cosmic properties necessary for the former will in most cases (in most combinations
-          of their permitted values) happen also to suffice for the latter
-            : cf. `^*-.+the claim: hardly could life exist absent a speed limit on causation$`
-              @ 01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
-        : re `to judge` see notepad:2026-6-3a : judging the rival explanantia by scrutiny of the extra
-          premise/premises needed by each to cover the extra explanandum of safeholding
-        - good for the purpose would be a property break-out and comparison table
-            : re `property.+table` see notebook:2026-6-1e : comparing for each property a) the range
-              of its values necessary for habitability, with b) the range sufficient for safeholding
-        ? property values for the habitability column from the fine-tuning and multiverse literature
-            : see https://scholar.google.ca/scholar_labs/search/session/11918491117785400852 : (2026-6-3)
-             ‘Where in the literature on cosmological fine-tuning or multiverse do scholars address
-              how the habitability of the universe (whether for life, or for observers like us)
-              relates to the speed limit of *c* that it imposes on causation?’
-                : see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5376662 :
-                  Besemer, David A.  2025.  ‘Universal time formula cosmology: emergent time
-                  and the unification of fundamental physics.’  August 2, 2025 draft.
-                      His multiverse model tightly couples habitability to the imposition of a safehold-
-                 -consistent speed limit.  ‘Life-supporting constraints for complex chemistry
-                  and biology: 0.5 ≲ R ≲ 2 …  This narrow range [for the speed of light] ensures:
-                      • Stable atomic structure
-                      • Liquid water phase
-                      • Complex molecular chemistry
-                      • Sufficient evolutionary time’  p. 59
-                  These claims he makes, but gives no argument for.
-                - precise values are still speculative
-                    / together with the nature of the multiverse, indeed with its very presence
-            if( a value range is imprecise )
-                / as I expect the more reliable ones will be
-                + so express it by a descriptor
+    method
+        • the extra premise needed by the multiverse ensemble hypothesis in order to explain not only
+          fine-tuning, but also the presence of the safehold, is hard to judge and must be looked into
+            : ad `extra premise` : a necessarily tight coupling between a cosmos’s habitability
+              and safeholding capacity, the universal structure of reality being such that the set
+              of cosmic properties necessary for the former will in most cases (in most combinations
+              of their permitted values) happen also to suffice for the latter
+                : cf. `^*-.+the claim: hardly could life exist absent a speed limit on causation$`
+                  @ 01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
+            : re `to judge` see notepad:2026-6-3a : judging the rival explanantia by scrutiny of the
+              extra premise/premises needed by each to cover the extra explanandum of safeholding
+            - good for the purpose would be a property break-out and comparison table
+                : re `property.+table` see notebook:2026-6-1e : comparing for each property a) the range
+                  of its values necessary for habitability, with b) the range sufficient for safeholding
+            ? property values for the habitability column from the fine-tuning and multiverse literature
+                : see https://scholar.google.ca/scholar_labs/search/session/11918491117785400852 :
+                 ‘Where in the literature on cosmological fine-tuning or multiverse do scholars address
+                  how the habitability of the universe (whether for life, or for observers like us)
+                  relates to the speed limit of *c* that it imposes on causation?’ (2026-6-3)
+                    : see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5376662 :
+                      Besemer, David A.  2025.  ‘Universal time formula cosmology: emergent time
+                      and the unification of fundamental physics.’  August 2, 2025 draft.
+                          His multiverse model tightly couples habitability to the imposition
+                      of a safehold-consistent speed limit.  ‘Life-supporting constraints
+                      for complex chemistry and biology: 0.5 ≲ R ≲ 2 …  This narrow range
+                      [for the speed of light] ensures:
+                          • Stable atomic structure
+                          • Liquid water phase
+                          • Complex molecular chemistry
+                          • Sufficient evolutionary time’  p. 59
+                      These claims he makes, but gives no argument for.
+                    - precise values are still speculative
+                        / together with the nature of the multiverse, indeed with its very presence
+                if( a value range is imprecise )
+                    / as I expect the more reliable ones will be
+                    + so express it by a descriptor
     feasiblity: prospects for refuting the claim of a necessarily tight coupling
       between habitability and safeholding capacity
         : re `claim of.+(necessarily tight coupling between) (habitability and safeholding capacity)`p
-          see `${1} a cosmos’s ${2}`p @ `the\ extra premise needed by the multiverse ensemble hypothesis`
+          see `${1} a cosmos’s ${2}`p @ `^*• the extra premise needed by the multiverse.+hypothesis`
         : cf. `^*- prospects for refuting.+: hardly could life exist absent a speed limit on causation$`
           @ 01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
         ⇒ better to neutralize the threat and win the issue over to my favour by giving an alternative
