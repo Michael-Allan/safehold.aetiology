@@ -3,18 +3,30 @@ Aetiology of the cosmic safehold
     : re `cosmic safehold` see ../ : The presence throughout the cosmos
       of a safehold fit for securing our long-term survival
     - there is no obvious cause for its presence
-        - here I will look into it
-    - already the causal ground has been well covered by the cosmological field of fine tuning
-        - from there one can glean an initial set of potential causes (causal explanans)
-          for the cosmic safehold, as follows
+        - here I will look into it, surveying the potential causes for its presence
+        - my [specific] aim here is to define a set ⁠X⁠ of potential causal explanantia ⁠x_1,x_2,x_3,\dots⁠
+          for the explanandum ⁠y⁠, given as follows
 
-            ⁃ take from the field of fine tuning its complete set of rival causal explanantia
-            ⁃ divorce each explanans from its original explanandum, namely cosmic fine tuning,
-              and discard the latter
-                : note : that is all for cosmic fine tuning, its presence will not be premised here
-            ⁃ reapply each explanans instead to the new explanandum of the cosmic safehold
+            ⁠\boldsymbol{y}⁠ : The fitness of the cosmos (for use) as a safehold for securing our long-term survival.
 
-    ─ potential causes and their premises:
+    - now already cosmology has looked into a phenomenon of similar scope and pertinence, namely
+      the fine tuning of the cosmos for life, and sought the potential causes for *its* presence
+        - thus we have predefined [for us] a set ⁠X'⁠ of potential causal explanantia
+          for an explanandum that is comparable to ⁠y⁠, namely that of:
+
+            ⁠\boldsymbol{y'}⁠ : The fine tuning of the cosmos for life.
+
+        ∴ one may begin by using the predefined set ⁠X'⁠ to define the initial members of ⁠X⁠, as follows
+
+            for( each potential causal explanans ⁠x_i⁠ of set ⁠X'⁠ ) where ⁠i=1,2,3,\dots⁠
+                ⁃ divorce ⁠x_i⁠ from explanandum ⁠y'⁠
+                    : note : that is all for ⁠y'⁠, fine tuning will not be a premise
+                      of the present aetiology
+                ⁃ reapply ⁠x_i⁠ instead, mutatis mutandis, to explanandum ⁠y⁠
+                ⁃ add the resulting ⁠x_i⁠ to set ⁠X⁠
+
+        - what follows is [based on] the result
+    ─ initial potential causes and their premises:
         necessity
             : privately see `^*• .*${same}$` @ `from the field of fine tuning$` @
               ._/01.tale-of-logic_form/._/40.a_search_for_explanations.notes.brec
@@ -30,6 +42,7 @@ Aetiology of the cosmic safehold
               ._/01.tale-of-logic_form/._/40.a_search_for_explanations.notes.brec
             : see `^^${same} \+.necessity$`i
             : see `^^${same} \+.design$`i
+    ─ further potential causes and their premises:
         multiverse ensemble + necessity
             : re `necessity` see also
             : privately note : here the principal added premise is a necessarily tight coupling between
