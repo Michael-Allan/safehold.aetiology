@@ -27,7 +27,7 @@ Aetiology of the cosmic safehold
             | making more prominent what is interesting
                 | perhaps the greatest strength it has, which might account for its endurance,
                   it owes (by attachment) to its explanantia
-                    : re `^*\| (.+)$`s see `^*- ${same}$`s
+                    : re `^*\| (.+)$`s see `^*- ${same}`p
                 | ⁠y'⁠ is controversial [as an explanandum] in a way that ⁠y⁠ cannot be
                 | in explaining ⁠y⁠, *both* of the [most popular] fine-tuning explanantia figure,
                   and|while *each* has [what appears to be] an indispensible role [to play]
