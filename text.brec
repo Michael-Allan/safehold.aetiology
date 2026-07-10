@@ -3,19 +3,46 @@ Aetiology of the cosmic safehold
     : re `cosmic safehold` see ../ : The presence throughout the cosmos
       of a safehold fit for securing our long-term survival
     - there is no obvious cause for its presence
-        - here I will look into it, surveying the potential causes for its presence
-        - my [specific] aim here is to define a set ⁠X⁠ of potential causal explanantia ⁠x_1,x_2,x_3,\dots⁠
+        - here I look into it, surveying the potential causes for its presence
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        - [specifically] my aim here is to define a set ⁠X⁠ of potential causal explanantia ⁠x_1,x_2,x_3,\dots⁠
           for the explanandum ⁠y⁠, given as follows
 
             ⁠\boldsymbol{y}⁠ : The fitness of the cosmos (for use) as a safehold for securing our long-term survival.
 
-    - now already cosmology has looked into a phenomenon of similar scope and pertinence, namely
+    - [now] already cosmology has looked into a phenomenon of similar scope and pertinence, namely
       the fine tuning of the cosmos for life, and sought the potential causes for *its* presence
         - thus we have predefined [for us] a set ⁠X'⁠ of potential causal explanantia
           for an explanandum that is comparable to ⁠y⁠, namely that of:
 
             ⁠\boldsymbol{y'}⁠ : The fine tuning of the physical laws, constants and conditions of the cosmos for life.
 
+        !! clumsy rhetoric herein
+            | any explanans of the safehold would explain also, one expects, the greater cosmos
+                ∵ the safehold is integral to|with the greater cosmos
+                - other such integral explananda (other than the safehold) include ⁠y'⁠
+                / maybe a more adept introduction, this
+                    ?+ then how else might ⁠y'⁠ be ‘a phenomenon of similar scope and pertinence’
+                        : re `‘(.+)’` see `already cosmology has looked into ${same}`
+            | making more prominent what is interesting
+                | perhaps the greatest strength it has, which might account for its endurance,
+                  it owes (by attachment) to its explanantia
+                    : re `^*\| (.+)$`s see `^*- ${same}$`s
+                | ⁠y'⁠ is controversial [as an explanandum] in a way that ⁠y⁠ cannot be
+                | in explaining ⁠y⁠, *both* of the [most popular] fine-tuning explanantia figure,
+                  and|while *each* has [what appears to be] an indispensible role [to play]
+                    - each is necessary [here] but alone does not suffice,
+                      where|while both together do [suffice]
+        - explanandum ⁠y'⁠ is controversial
+            - it faces strong opposition on many fronts
+            - perhaps the greatest strength it has, which might account for its endurance,
+              it owes (by attachment) to its explanantia
+            - these have turned out to be useful for purposes other than explaining ⁠y'⁠
+                - e.g., for the two most popular explanantia:
+                    - the manifold uses of the idea of a cosmic designer or design
+                    - the claim from the multiverse (+ string theory + ‘stranger’ things) chapter
+                      of my cosmology handbook that the idea of the multiverse is ‘here to stay’
+            - yet another purpose they serve in the present aetiology
         ∴ one may begin by using the predefined set ⁠X'⁠ to define the initial members of ⁠X⁠, as follows
 
             for( each potential causal explanans ⁠x_i⁠ of set ⁠X'⁠ ) where ⁠i=1,2,3,\dots⁠
@@ -26,6 +53,7 @@ Aetiology of the cosmic safehold
                 ⁃ add the resulting ⁠x_i⁠ to set ⁠X⁠
 
         - what follows is [based on] the result
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     ─ initial potential causes and their premises:
         necessity
             : privately see `^*• .*${same}$` @ `from the field of fine tuning$` @
