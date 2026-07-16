@@ -2,59 +2,25 @@ Aetiology of the cosmic safehold
 
     : re `cosmic safehold` see ../ : The presence throughout the cosmos
       of a safehold fit for securing our long-term survival
-    - there is no obvious cause for its presence
-        - here I look into it, surveying the potential causes for its presence
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        - [specifically] my aim here is to define a set ⁠X⁠ of potential causal explanantia ⁠x_1,x_2,x_3,\dots⁠
-          for the explanandum ⁠y⁠, given as follows
+    - here I look into the aetiology of the cosmic safehold,
+     {here I survey|surveying} the potential theoretic reasons (causes) for its presence
+    - [to begin with|initially] the potential causes are obscure,
+      but one thing stands out as [immediately] obvious
+        - the safehold is physically bound up (entangled) with the larger cosmos
+    - now already physics|cosmology has looked into the aetiology of another [such] [cosmically]
+      entangled phenomenon, namely the fine tuning of the physical laws, constants and conditions
+      of the cosmos for [the support of] life, and sought the potential causes for *its* presence
+        ∴ I begin by borrowing [explanantia] from this pre-existing aetiology, as follows
 
-            ⁠\boldsymbol{y}⁠ : The fitness of the cosmos (for use) as a safehold for securing our long-term survival.
+            for( each proposed explanans ⁠C⁠ of fine tuning )
+                ⁃ divorce ⁠C⁠ from the explanandum of fine tuning
+                    : note : that is all for fine tuning itself, it will not figure
+                      as a premise of the present aetiology
+                ⁃ apply ⁠C⁠ instead, mutatis mutandis, as an explanans of the cosmic safehold
 
-    - [now] already cosmology has looked into a phenomenon of similar scope (and pertinence|bearing),
-      namely the fine tuning of the cosmos for life, and sought the potential causes for *its* presence
-        : ad `scope \(and pertinence\|bearing\)` : namely cosmic (and existential)
-        - thus we have predefined [for us] a set ⁠X'⁠ of potential causal explanantia
-          for an explanandum that is comparable to ⁠y⁠, namely that of:
-
-            ⁠\boldsymbol{y'}⁠ : The fine tuning of the physical laws, constants and conditions of the cosmos for life.
-
-        !! clumsy rhetoric herein
-            | any explanans of the safehold would explain also, one expects, the greater cosmos
-                ∵ the safehold is entangled with the cosmos
-                - other phenomena|explananda so entangled include ⁠y'⁠
-                    : cf. `already cosmology has looked into a phenomenon of similar scope`
-                / maybe a more adept introduction, this
-            | making more prominent what is interesting
-                | perhaps the greatest strength it has, which might account for its endurance,
-                  it owes (by attachment) to its explanantia
-                    : re `^*\| (.+)$`s see `^*- ${same}`p
-                | ⁠y'⁠ is controversial [as an explanandum] in a way that ⁠y⁠ cannot be
-                | in explaining ⁠y⁠, *both* of the [most popular] fine-tuning explanantia figure,
-                  and|while *each* has [what appears to be] an indispensible role [to play]
-                    - each is necessary [here] but alone does not suffice,
-                      where|while both together do [suffice]
-        - explanandum ⁠y'⁠ is controversial
-            - it faces strong opposition on many fronts
-            - perhaps the greatest strength it has, which might account for its endurance,
-              it owes (by attachment) to its explanantia
-            - these have turned out to be useful for purposes other than explaining ⁠y'⁠
-                - e.g., for the two most popular explanantia:
-                    - the manifold uses of the idea of a cosmic designer or design
-                    - the claim from the multiverse (+ string theory + ‘stranger’ things) chapter
-                      of my cosmology handbook that the idea of the multiverse is ‘here to stay’
-            - yet another purpose they serve in the present aetiology
-        ∴ one may begin by using the predefined set ⁠X'⁠ to define the initial members of ⁠X⁠, as follows
-
-            for( each potential causal explanans ⁠x_i⁠ of set ⁠X'⁠ ) where ⁠i=1,2,3,\dots⁠
-                ⁃ divorce ⁠x_i⁠ from explanandum ⁠y'⁠
-                    : note : that is all for ⁠y'⁠, fine tuning will not be a premise
-                      of the present aetiology
-                ⁃ reapply ⁠x_i⁠ instead, mutatis mutandis, to explanandum ⁠y⁠
-                ⁃ add the resulting ⁠x_i⁠ to set ⁠X⁠
-
-        - what follows is [based on] the result
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    ─ initial potential causes and their premises:
+        - this yields an initial set of potential causes for the safehold,
+          [which is] the basis for|of the following
+    ─ initial set of potential causes and their premises:
         necessity
             : privately see `^*• .*${same}$` @ `from the field of fine tuning$` @
               ._/01.tale-of-logic_form/._/40.a_search_for_explanations.notes.brec
