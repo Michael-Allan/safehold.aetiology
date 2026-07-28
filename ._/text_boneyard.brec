@@ -56,11 +56,11 @@
 
 
 
-                    Table, Typology of aetiologues
+                    Table, Typology of explanantia
                        for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-              Explain-  Explanantic   Name of aetiologue
+              Explain-  Explanantic   Name of explanans
                able      ground
 
                 yes
@@ -79,16 +79,16 @@
 
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 no
-                                      brute fact
+                                      null, brute fact
 
 
 
 
-                    Table, Typology of aetiologues
+                    Table, Typology of explanantia
                        for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-              Explain-  Explanantic   Name of aetiologue
+              Explain-  Explanantic   Name of explanans
                able      ground
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
@@ -107,15 +107,15 @@
 
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 no
-                                      brute fact
+                                      null, brute fact
 
 
 
 
-            Table, Typology of aetiologues for the cosmic safehold.
+            Table, Typology of explanantia for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-             Explainable    Explanantic      Name of aetiologue
+             Explainable    Explanantic      Name of explanans
                              ground
 
                 yes
@@ -134,15 +134,15 @@
 
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 no
-                                             brute fact
+                                             null, brute fact
 
 
 
 
-            Table, Typology of aetiologues for the cosmic safehold.
+            Table, Typology of explanantia for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-             Explainable    Explanantic      Name of aetiologue
+             Explainable    Explanantic      Name of explanans
                              ground
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
@@ -161,15 +161,15 @@
 
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 no
-                                             brute fact
+                                             null, brute fact
 
 
 
 
-                Table, Typology of aetiologues for the cosmic safehold.
+                Table, Typology of explanantia for the cosmic safehold.
 
 
-            Explainable     Explanantic       Name of aetiologue
+            Explainable     Explanantic       Name of explanans
                              ground
          
                                           ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
@@ -188,18 +188,18 @@
                                           ┃                                    │
                         ┏━━━━━━━━━━━━━━━━━┹────────────────────────────────────┤
                         ┃                                                      │
-                no      ┃                     brute fact                       │
+                no      ┃                     null, brute fact                 │
                         ┃                                                      │
                         ┖──────────────────────────────────────────────────────┘
 
 
 
 
-                Table, Typology of aetiologues for the cosmic safehold.
+                Table, Typology of explanantia for the cosmic safehold.
 
 
                             Explanantic
-            Explainable      ground           Name of aetiologue
+            Explainable      ground           Name of explanans
          
           ┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
           ┃             │                 │                                    │
@@ -217,7 +217,7 @@
           ┃             │                 │                                    │
           ┠─────────────┴─────────────────┴────────────────────────────────────┤
           ┃                                                                    │
-          ┃     no                            brute fact                       │
+          ┃     no                            null, brute fact                 │
           ┃                                                                    │
           ┖────────────────────────────────────────────────────────────────────┘
 
