@@ -56,7 +56,7 @@
 
 
 
-                    Table, Typology of explanantia
+            Table, Typology of known, possible explanantia
                        for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -84,7 +84,7 @@
 
 
 
-                    Table, Typology of explanantia
+            Table, Typology of known, possible explanantia
                        for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -112,7 +112,8 @@
 
 
 
-            Table, Typology of explanantia for the cosmic safehold.
+                Table, Typology of known, possible explanantia
+                           for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
              Explainable    Explanantic      Name of explanans
@@ -139,7 +140,8 @@
 
 
 
-            Table, Typology of explanantia for the cosmic safehold.
+                Table, Typology of known, possible explanantia
+                           for the cosmic safehold.
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
              Explainable    Explanantic      Name of explanans
@@ -166,7 +168,8 @@
 
 
 
-                Table, Typology of explanantia for the cosmic safehold.
+                    Table, Typology of known, possible explanantia
+                               for the cosmic safehold.
 
 
             Explainable     Explanantic       Name of explanans
@@ -195,7 +198,8 @@
 
 
 
-                Table, Typology of explanantia for the cosmic safehold.
+                    Table, Typology of known, possible explanantia
+                               for the cosmic safehold.
 
 
                             Explanantic
@@ -246,26 +250,21 @@
                     - what suffices to ground an explanans is that it hang together (cohere) in some
                       satifying way, then we can happily defer investigating its own ultimate cause
                     N.B. yet necessity *is* the characteristic|definitive premise of this explanans
-                    order ergo+ the explanantia by Waller’s typologic scheme
-                        : see `^*Waller.+2020.+Cosmological fine-tuning arguments` @ ../sources.brec :
-                         ‘The division goes like this.  Either the [phenomenon] has an explanation…
-                          or it does not.  If it does not, then the [phenomenon] is a brute fact. …
-                          [Otherwise] there is an explanation…  the explanation is either a necessary
-                          truth or it is not. … if it is not… then it must be [a] contingent [truth].
-                          This is the basic reasoning behind the classification scheme.’ §4, p. 201-2
+                    order ergo+ the explanantia by Jason Waller’s typologic scheme
+                        : re `Jason Waller’s.+scheme` see `${same}` @ ../text.brec
                         - Waller’s scheme incorporates a dichotomy of necessary vs. contingent grounds
                         - meanwhile Friederich’s survey of theoretic physics (‘new physics’) explanantia
                           is ordered (implicitly) by the same dichotomy
                             - the first explanans of the survey grounds on fundamental necessity
                                 : see `^*Friederich.+2026.+Fine-tuning` @ ../sources.brec :
-                                 ‘first … a so-called theory of everything according to which …
-                                  the laws and constants of physics … turn out to be dictated
+                                 ‘first… a so-called *theory of everything* according to which…
+                                  the laws and constants of physics… turn out to be dictated
                                   completely by fundamental general principles.’ §2.3
                                 - like ⁠T⁠ therefore
                             - the second grounds on a selection mill that processes
                               a [fundamental] grist of contingency
                                 : see `^*Friederich.+2026.+Fine-tuning` @ ../sources.brec :
-                                 ‘second … a dynamical account of the generation of life-friendly
+                                 ‘second… a *dynamical* account of the generation of life-friendly
                                   conditions, in analogy to the … “dynamical” evolutionary account
                                   of biological fine-tuning’ §2.3
                         - re the other explanantia:
@@ -291,12 +290,6 @@
     ─ further possible explanantia and their premises:
         multiverse ensemble + physical necessity
             : re `physical necessity` see also
-            : privately note : here the principal added premise is a necessarily tight coupling between
-              a cosmos’s habitability and safeholding capacity, the universal structure of reality being
-              such that the set of cosmic properties necessary for the former will in most cases (in most
-              combinations of their permitted values) happen also to suffice for the latter
-                : cf. `^*-.+the claim: hardly could life exist absent a speed limit on causation$`
-                  @ 01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
         multiverse ensemble + design
 
 

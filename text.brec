@@ -18,42 +18,69 @@ Aetiology of the cosmic safehold
                 ⁃ apply ⁠E⁠ instead, mutatis mutandis, as an explanans of the cosmic safehold
 
         - the resulting set of adapted explanantia I then take to serve
-          as an initial set of possible explanantia for the safehold [whence I derive what follows]
-    order+ the explanantia by Waller’s typologic scheme
-        : privately cf. `^*order ergo.+the explanantia by Waller’s.+scheme$` @ ._/text_boneyard.brec
-        : see `^*Waller.+2020.+Cosmological fine-tuning arguments` @ sources.brec : ‘The division goes
-          like this.  Either the [phenomenon] has an explanation… or it does not.  If it does not, then
-          the [phenomenon] is a brute fact. … [Otherwise] there is an explanation…  the explanation is
-          either a necessary truth or it is not. … if it is not… then it must be [a] contingent [truth].
-          This is the basic reasoning behind the classification scheme.’ §4, p. 201-2
+          as the set of known, possible explanantia for the safehold
+        - these I order by Jason Waller’s typologic scheme, as follows
 
 
-                    Table, Typology of explanantia
-                       for the cosmic safehold.
-            ╭╴                                           ╶╮
+                Table, Typology of known, possible explanantia
+                           for the cosmic safehold.
+                ╭╴                                           ╶╮
 
-              Explain-  Explanantic   Name of explanans
-               able      ground
+                  Explain-  Explanantic   Name of explanans
+                   able      ground
 
-                yes
-                        necessity
-                                      physical necessity
+                    yes
+                            necessity
+                                          physical necessity
 
-                                      supernatural design
+                                          supernatural design
 
-                    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-                        contingency
-                                      natural cosmogonal selection
+                        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+                            contingency
+                                          natural cosmogonal selection
 
-                                      multiverse ensemble
+                                          multiverse ensemble
 
-                                      mundane design
+                                          mundane design
 
-            ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-                no
-                                      null, brute fact
-
-
+                ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+                    no
+                                          null, brute fact
 
 
-        finish porting back+ what got boneyarded
+            : re `J.+W.+scheme` see `^*Waller.+2020.+Cosmological fine-tuning arguments` @ sources.brec :
+             ‘The division goes like this.  Either the [phenomenon] has an explanation…
+              or it does not.  If it does not, then the [phenomenon] is a brute fact. …
+              [Otherwise] there is an explanation…  the explanation is either a necessary
+              truth or it is not. … if it is not… then it must be [a] contingent [truth].
+              This is the basic reasoning behind the classification scheme.’ §4, p. 201-2
+
+    physical necessity
+
+            • reality’s structure is explainable by a (yet unknown) theory of fundamental physics ⁠T⁠
+            • ⁠T⁠ is apodictic
+            • ⁠T⁠ implies the safehold
+
+        : see also `^*Friederich.+2026.+Fine-tuning` @ sources.brec :
+         ‘a so-called *theory of everything* according to which… the laws and constants of physics…
+          turn out to be dictated completely by fundamental general principles.’ §2.3
+
+    supernatural design
+
+    natural cosmogonal selection
+        : see also `^*Friederich.+2026.+Fine-tuning` @ sources.brec :
+         ‘a *dynamical* account of the generation of life-friendly conditions, in analogy
+          to the… “dynamical” evolutionary account of biological fine-tuning’ §2.3
+
+    multiverse ensemble
+        : privately note : here the principal added premise is a necessarily tight coupling between
+          a cosmos’s habitability and safeholding capacity, the universal structure of reality being
+          such that the set of cosmic properties necessary for the former will in most cases (in most
+          combinations of their permitted values) happen also to suffice for the latter
+            : cf. `^*-.+the claim: hardly could life exist absent a speed limit on causation$`
+              @ ._/01.tale-of-logic_form/._/60.vetting_their_explanantia.notes.brec
+
+    mundane design
+        : privately see `^^authorial priority$`i @ ._/text.notes.brec
+
+    brute fact \ the null explanans
