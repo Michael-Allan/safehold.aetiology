@@ -228,6 +228,27 @@
 
 
 
+        - mooted changes to the typologic table
+            - added columns
+                ?+ add an object column?
+                    - name
+                        | *phenomenon*
+                        | *explanandum*
+                    - instances|values
+                        | real vs. unreal
+                        | fact vs. fiction
+                            ?+ synonyms for ‘fiction’
+                    / one negative instance|value would be (turning the tables) the rebuttal
+                      that the fine tuning is that of life to the cosmos, not the cosmos to life
+                ?+ add a column that answers whether an explanation or ‘response’ is wanted?
+                    : see e.g. https://plato.stanford.edu/entries/fine-tuning/#DoesFineTuniForLifeRequResp
+            ?+ what values of *explanantic ground* for (negative values of) the added columns
+                | premise denial
+            ?+ what to do with column *name of explanans*?
+                | rename simply to *explanans*
+                | leave unnamed
+                    ∵ already the table claims a payload of explanantia
+            ?+ re-describe ‘null, brute fact’ simply as ‘brute fact’
     ─ initial set of possible explanantia and their premises:
         physical necessity
             : privately see `^*• .*${same}$` @ `from the field of fine tuning$` @
