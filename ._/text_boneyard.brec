@@ -61,10 +61,10 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
               explain-  explanantic   name of explanans
-               able      ground
+               able       truth
 
                 yes
-                        necessity
+                        necessary
                                       physical necessity
 
                                       supernatural design
@@ -89,10 +89,10 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
               explain-  explanantic   name of explanans
-               able      ground
+               able       truth
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
-                        necessity
+                        necessary
                                       physical necessity
 
                                       supernatural design
@@ -117,10 +117,10 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
              explainable    explanantic      name of explanans
-                             ground
+                              truth
 
                 yes
-                            necessity
+                            necessary
                                              physical necessity
 
                                              supernatural design
@@ -145,10 +145,10 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
              explainable    explanantic      name of explanans
-                             ground
+                              truth
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
-                            necessity
+                            necessary
                                              physical necessity
 
                                              supernatural design
@@ -173,12 +173,12 @@
 
 
             explainable     explanantic       name of explanans
-                             ground
+                              truth
          
                                           ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
                                           ┃                                  │
                                           ┃   physical necessity             │
-                            necessity     ┃                                  │
+                            necessary     ┃                                  │
                                           ┃   supernatural design            │
                                           ┃                                  │
                 yes      ─────────────────╂──────────────────────────────────┤
@@ -203,12 +203,12 @@
 
 
                             explanantic
-            explainable      ground           name of explanans
+            explainable       truth           name of explanans
          
           ┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
           ┃             │                 │                                  │
           ┃             │                 │   physical necessity             │
-          ┃             │   necessity     │                                  │
+          ┃             │   necessary     │                                  │
           ┃             │                 │   supernatural design            │
           ┃             │                 │                                  │
           ┃     yes     ├─────────────────├──────────────────────────────────┤
@@ -242,7 +242,7 @@
                       that the fine tuning is that of life to the cosmos, not the cosmos to life
                 ?+ add a column that answers whether an explanation or ‘response’ is wanted?
                     : see e.g. https://plato.stanford.edu/entries/fine-tuning/#DoesFineTuniForLifeRequResp
-            ?+ what values of *explanantic ground* for (negative values of) the added columns
+            ?+ what values of *explanantic truth* for (negative values of) the added columns
                 | premise denial
             ?+ what to do with column *name of explanans*?
                 | rename simply to *explanans*
@@ -268,21 +268,21 @@
                 / no dial settings, to borrow the metaphor of fine tuning
                 ! necessity is generally too demanding a ground for causal explanation
                     / I expect none of my other explanantia to hold necessarily
-                    - what suffices to ground an explanans is that it hang together (cohere) in some
+                    - what suffices to support an explanans is that it hang together (cohere) in some
                       satifying way, then we can happily defer investigating its own ultimate cause
                     N.B. yet necessity *is* the characteristic|definitive premise of this explanans
                     order ergo+ the explanantia by Jason Waller’s typologic scheme
                         : re `Jason Waller’s.+scheme` see `${same}` @ ../text.brec
-                        - Waller’s scheme incorporates a dichotomy of necessary vs. contingent grounds
+                        - Waller’s scheme incorporates a dichotomy of necessary vs. contingent truths
                         - meanwhile Friederich’s survey of theoretic physics (‘new physics’) explanantia
                           is ordered (implicitly) by the same dichotomy
-                            - the first explanans of the survey grounds on fundamental necessity
+                            - the first explanans of the survey rests on fundamental necessity
                                 : see `^*Friederich.+2026.+Fine-tuning` @ ../sources.brec :
                                  ‘first… a so-called *theory of everything* according to which…
                                   the laws and constants of physics… turn out to be dictated
                                   completely by fundamental general principles.’ §2.3
                                 - like ⁠T⁠ therefore
-                            - the second grounds on a selection mill that processes
+                            - the second rests on a selection mill that processes
                               a [fundamental] grist of contingency
                                 : see `^*Friederich.+2026.+Fine-tuning` @ ../sources.brec :
                                  ‘second… a *dynamical* account of the generation of life-friendly
