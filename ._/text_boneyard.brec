@@ -61,7 +61,7 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
               explain-  explanantic   name of explanans
-               able       truth
+               able     truth mode
 
                 yes
                         necessary
@@ -89,7 +89,7 @@
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
               explain-  explanantic   name of explanans
-               able       truth
+               able     truth mode
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
                         necessary
@@ -116,8 +116,7 @@
                            for the cosmic safehold
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-             explainable    explanantic      name of explanans
-                              truth
+             explainable    truth mode       name of explanans
 
                 yes
                             necessary
@@ -144,8 +143,7 @@
                            for the cosmic safehold
 
             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-             explainable    explanantic      name of explanans
-                              truth
+             explainable    truth mode       name of explanans
             ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
                 yes
                             necessary
@@ -173,7 +171,7 @@
 
 
             explainable     explanantic       name of explanans
-                              truth
+                            truth mode
          
                                           ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
                                           ┃                                  │
@@ -203,7 +201,7 @@
 
 
                             explanantic
-            explainable       truth           name of explanans
+            explainable     truth mode        name of explanans
          
           ┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
           ┃             │                 │                                  │
@@ -242,7 +240,7 @@
                       that the fine tuning is that of life to the cosmos, not the cosmos to life
                 ?+ add a column that answers whether an explanation or ‘response’ is wanted?
                     : see e.g. https://plato.stanford.edu/entries/fine-tuning/#DoesFineTuniForLifeRequResp
-            ?+ what values of *explanantic truth* for (negative values of) the added columns
+            ?+ what values of *explanantic truth mode* for (negative values of) the added columns
                 | premise denial
             ?+ what to do with column *name of explanans*?
                 | rename simply to *explanans*
